@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "480078142472",
+    "project_id": "hefny-62433",
+    "storage_bucket": "hefny-62433.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:480078142472:android:d3cf040eb8f28c2b4085bd",
+        "android_client_info": {
+          "package_name": "com.example.shop_appp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDsFGc6xH1F0oXD7N1N0aVNBBv_efF393M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
